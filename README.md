@@ -15,10 +15,6 @@
 </p>
 
 ---
-
-## 📈 Minhas estatísticas
-![Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusdev&show_icons=true&theme=radical)
-
 ---
 
 ## 🌍 Redes Sociais
