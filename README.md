@@ -63,5 +63,5 @@ Aplicação integrando banco de dados relacional e manipulação no front.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&style=flat-square&color=blue" alt="Visualizações de Perfil"/>
+  <img src="[https://komarev.com/ghpvc/?username=seuusuario&style=flat-square&color=blue](https://www.linkedin.com/in/vin%C3%ADcius-santos-b372081b2/)" alt="Visualizações de Perfil"/>
 </p>
