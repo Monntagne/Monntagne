@@ -2,7 +2,7 @@
 
 <h1 align="center">Vinicius Santos 👨‍💻</h1>
 <p align="center">
-  Desenvolvedor Front-End com sólida experiência em SQL e foco em soluções funcionais e bem estruturadas.
+  Futuro desenvolvedor Back-End com experiência em SQL e foco em soluções funcionais e bem estruturadas.
 </p>
 
 ---
